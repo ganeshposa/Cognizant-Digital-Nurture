@@ -1,0 +1,17 @@
+﻿=== week2.Student ===
+Student ID: 101
+Student Name: Ganesh
+=== week2.Employee ===
+101
+Ganesh
+45000.0
+=== week2.InheritanceDemo ===
+Animal makes sound
+Dog barks
+=== week2.MethodOverloading ===
+30
+60
+=== week2.MethodOverriding ===
+Child Class
+=== week2.ConstructorDemo ===
+Constructor Called
